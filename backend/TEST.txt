@@ -1,0 +1,6 @@
+http://localhost:5000/api/seed
+http://localhost:5000/api/statistics?month=1
+http://localhost:5000/api/bar-chart?month=1
+http://localhost:5000/api/pie-chart?month=1
+http://localhost:5000/api/transactions?page=1&perPage=10&search=backpack&month=1
+http://localhost:5000/api/transactions?page=1&perPage=10&search=laptop&month=2
